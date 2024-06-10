@@ -24,6 +24,6 @@
 
 # Блок-схема основного метода _**ChangeArray**_
 ### .JPG
-![Блок-схема jpg](Pic/Pic1.jpg)
+![Блок-схема jpg](Pic1.jpg)
 ### .PNG
-![Блок-схема png](Pic/Pic2.png)
+![Блок-схема png](Pic2.png)
